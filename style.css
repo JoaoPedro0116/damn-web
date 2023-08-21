@@ -140,13 +140,56 @@ h5{
 .text{
   margin-top: -15%;
   margin-right: 12%;
+  
+ 
+}
+.left{
+  
 
+    width: 550px;
+    margin-left: 10%;
+    margin-top: 8%;
+   
+
+
+    
+}
+.text-left{
+    margin-bottom: 2%;
+    margin-top: 15%;
+ 
+    margin-left: 0%;
+    font-family: 'Prompt', sans-serif;
+    letter-spacing: 1px;
+    font-size: 1.2em;
 
 }
+  
+#img-right{
+ 
+  margin-top: -100%;
+  margin-left: 140%;
+}
 
-.box3{
-  width: 500px;
-  height: 190px;
-  margin-left: 63%;
-  margin-top: 10%;
+.five{
+    width: 524px;
+    height: 500px;
+    flex-shrink: 0;
+    background-color: white;
+    border-radius: 670px;
+background: #F6F6F6;
+    margin: 40% auto;
+   
+}
+
+#img1{
+    width: 529px;
+    height: 500px;
+    border-radius: 340px;
+    margin-top: -5%;
+    margin-left: -6%;
+   
+}
+#five{
+    margin: 10% 35% 10% 35%;
 }
